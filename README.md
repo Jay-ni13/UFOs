@@ -9,7 +9,7 @@ Building a dynamic webpage to engage UFO enthusiasts through articles on current
 ## Results
 After reading the article on the validity of UFO sightings, a [UFO Finder](https://jay-ni13.github.io/UFOs/index.html) visiter can utilize the array of possible filters to search queries they are curious about.
 
-![UFO Article](https://github.com/Jay-ni13/UFOs/blob/main/static/images/ufo_article.png)![Filter Table](https://github.com/Jay-ni13/UFOs/blob/main/static/images/filter_table.png)
+![UFO Article](https://github.com/Jay-ni13/UFOs/blob/main/static/images/ufo_article.png | width=75)![Filter Table](https://github.com/Jay-ni13/UFOs/blob/main/static/images/filter_table.png | width=25)
 
 A visiter can search for sightings on a specific date--such as 1/13/2010--by entering the date into the date text box.
 

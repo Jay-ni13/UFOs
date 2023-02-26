@@ -1,6 +1,6 @@
 # UFOs
 ## Project Overview
-Building a dynamic webpage to engage UFO enthusiasts through articles on current developments in the field with input from famous ufoligists and collected data on UFO sightings around the United States with customizable search criterea.
+Building a dynamic webpage to engage UFO enthusiasts through articles on current developments in the field with input from famous ufoligists and collected data on UFO sightings around the United States with customizable search criteria.
 
 ## Resources
  - Data Source: data.js
@@ -35,6 +35,6 @@ Through the UFO Finder website, inquiring minds can even search for sightings by
 
 
 ## Summary
-Though this site's design is flexible in its variety of search criterea input and the ability to use more than one filter at the same time, it is cumbersome to initiate multiple criterea without a search button to click after all the desired text has been entered. Another drawback is having to refresh the page everytime to reset the table and filters.
+Though this site's design is flexible in its variety of search criteria input and the ability to use more than one filter at the same time, it is cumbersome to initiate multiple criteria without a search button to click after all the desired text has been entered. Another drawback is having to refresh the page everytime to reset the table and filters.
 ### Recommendations
 The current site has a good foundation for adding many more datasets--so visitors can really have fun with their queries--and for sourcing additional niche articles that can inform budding UFO enthusiasts on what established ufologists have to say.
